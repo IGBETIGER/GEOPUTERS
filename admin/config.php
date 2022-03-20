@@ -1,8 +1,8 @@
 <?php
 
 	$DB_HOST = '127.0.0.1';
-	$DB_USER = 'leadcoin_adolfb';
-	$DB_PASS = 'KZFSvx2lxYNY';
+	$DB_USER = 'root';
+	$DB_PASS = '';
 	$DB_NAME = 'leadcoin_adolfb';
 	
 	try{
